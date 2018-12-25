@@ -1,0 +1,40 @@
+* {
+  font-family: "Raleway", sans-serif;
+}
+.nav {
+  margin-left: auto;
+}
+#navbar-brand {
+  font-weight: bold;
+  color: coral;
+}
+ul {
+  line-height: 60px;
+  overflow: hidden;
+}
+ul li a {
+  padding: 15px 15px;
+  text-decoration: none;
+  letter-spacing: 2px;
+  color: #333;
+  transition: all 0.5s ease;
+  font-weight: 600;
+}
+ul li:hover a {
+  text-decoration: none;
+  color: brown;
+}
+#root {
+  margin-top: 60px;
+}
+#about {
+  background: url("../src/components/christine-roy-343235-unsplash.jpg") center
+    center no-repeat;
+  background-size: cover;
+}
+section {
+  padding: 7rem 0;
+}
+.service-box .text-primary {
+  color: coral !important;
+}

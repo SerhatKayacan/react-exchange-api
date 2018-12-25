@@ -1,0 +1,17 @@
+.custom-select {
+  width: 100px;
+}
+#sonuc {
+  margin-left: 60px;
+  font-size: 20px;
+}
+#render {
+  display: block;
+}
+
+#çerçeve {
+  background-color: rgba(255, 127, 80, 0.3);
+}
+.içerik_react {
+  padding: 20px 20px 20px 20px;
+}
